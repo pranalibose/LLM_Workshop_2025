@@ -1,0 +1,15 @@
+{
+  "name": "Resume Analyzer LLM",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",  // Python extension
+        "ms-tools.vscode-jupyter-notebooks" // Jupyter Notebook support (optional)
+      ]
+    }
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}

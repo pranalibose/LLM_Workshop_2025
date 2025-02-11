@@ -1,0 +1,10 @@
+transformers
+datasets
+accelerate
+bitsandbytes
+trl
+peft
+json
+pandas
+scipy
+scikit-learn
