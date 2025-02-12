@@ -1,0 +1,152 @@
+[
+    {
+      "resume_text": "Summary: Experienced software engineer with 5+ years of expertise in Python, Java, and cloud technologies. Skills: Python, Java, AWS, SQL, Docker. Experience: Software Engineer at XYZ Corp (2018-2023). Education: B.Tech in Computer Science from ABC University.",
+      "instruction": "Tailor this resume for a data scientist role.",
+      "feedback": "Add more details about your experience with data analysis and machine learning. Highlight any projects involving data science tools like Pandas, Scikit-learn, or TensorFlow."
+    },
+    {
+      "resume_text": "Summary: Recent graduate with a degree in Computer Science and a passion for web development. Skills: HTML, CSS, JavaScript, React. Experience: Intern at WebDev Inc (2022). Education: B.Sc in Computer Science from DEF College.",
+      "instruction": "Provide feedback for a front-end developer role.",
+      "feedback": "Expand on your React projects and include links to your portfolio or GitHub. Mention any experience with responsive design or cross-browser compatibility."
+    },
+    {
+      "resume_text": "Summary: Data analyst with 3 years of experience in data visualization and statistical analysis. Skills: Python, R, Tableau, SQL. Experience: Data Analyst at DataWorks (2020-2023). Education: M.Sc in Data Science from GHI University.",
+      "instruction": "Tailor this resume for a business analyst role.",
+      "feedback": "Emphasize your experience with business intelligence tools like Power BI. Include examples of how your analysis has driven business decisions."
+    },
+    {
+      "resume_text": "Summary: DevOps engineer with expertise in CI/CD pipelines and cloud infrastructure. Skills: Jenkins, Kubernetes, AWS, Terraform. Experience: DevOps Engineer at CloudOps (2019-2023). Education: B.Tech in IT from JKL University.",
+      "instruction": "Provide feedback for a cloud engineer role.",
+      "feedback": "Highlight your experience with multi-cloud environments and automation tools. Mention any certifications like AWS Certified Solutions Architect."
+    },
+    {
+      "resume_text": "Summary: Marketing professional with 7 years of experience in digital marketing and brand management. Skills: SEO, SEM, Social Media Marketing, Analytics. Experience: Marketing Manager at Brandify (2016-2023). Education: MBA in Marketing from MNO University.",
+      "instruction": "Tailor this resume for a social media manager role.",
+      "feedback": "Focus on your social media campaigns and metrics. Include specific examples of successful campaigns and tools like Hootsuite or Buffer."
+    },
+    {
+      "resume_text": "Summary: Financial analyst with expertise in financial modeling and risk assessment. Skills: Excel, SQL, Bloomberg Terminal, Python. Experience: Financial Analyst at FinCorp (2018-2023). Education: B.Com in Finance from PQR University.",
+      "instruction": "Provide feedback for an investment banking role.",
+      "feedback": "Highlight your experience with financial modeling and valuation techniques. Include any experience with M&A or IPO processes."
+    },
+    {
+      "resume_text": "Summary: UX designer with 4 years of experience in user research and prototyping. Skills: Figma, Sketch, Adobe XD, User Research. Experience: UX Designer at DesignCo (2019-2023). Education: B.Des in Interaction Design from STU University.",
+      "instruction": "Tailor this resume for a product designer role.",
+      "feedback": "Emphasize your experience with end-to-end product design. Include case studies or links to your portfolio showcasing your design process."
+    },
+    {
+      "resume_text": "Summary: Cybersecurity specialist with expertise in threat analysis and penetration testing. Skills: Kali Linux, Metasploit, Wireshark, CISSP. Experience: Cybersecurity Analyst at SecureIT (2017-2023). Education: M.Tech in Cybersecurity from VWX University.",
+      "instruction": "Provide feedback for a security consultant role.",
+      "feedback": "Highlight your experience with security audits and compliance frameworks like ISO 27001. Include any certifications like CISSP or CEH."
+    },
+    {
+      "resume_text": "Summary: Project manager with 6 years of experience in Agile and Scrum methodologies. Skills: Jira, Trello, PMP, Risk Management. Experience: Project Manager at ProjCo (2017-2023). Education: MBA in Project Management from YZA University.",
+      "instruction": "Tailor this resume for a product manager role.",
+      "feedback": "Focus on your experience with product lifecycle management. Include examples of how you've prioritized features and collaborated with cross-functional teams."
+    },
+    {
+      "resume_text": "Summary: Content writer with 5 years of experience in blogging and copywriting. Skills: SEO, WordPress, Grammarly, Content Strategy. Experience: Content Writer at WriteWell (2018-2023). Education: B.A in English from BCD College.",
+      "instruction": "Provide feedback for a technical writer role.",
+      "feedback": "Highlight your experience with technical documentation and tools like Markdown or Confluence. Include examples of user manuals or API documentation."
+    },
+    {
+      "resume_text": "Summary: HR professional with expertise in talent acquisition and employee engagement. Skills: Recruitment, HRIS, Employee Relations, Performance Management. Experience: HR Manager at PeopleFirst (2016-2023). Education: MBA in HR from EFG University.",
+      "instruction": "Tailor this resume for a recruitment specialist role.",
+      "feedback": "Focus on your experience with sourcing and interviewing candidates. Include metrics like time-to-fill or candidate satisfaction rates."
+    },
+    {
+      "resume_text": "Summary: Sales executive with 8 years of experience in B2B sales and account management. Skills: CRM, Negotiation, Sales Forecasting, Relationship Management. Experience: Sales Manager at SalesPro (2015-2023). Education: BBA in Marketing from HIJ University.",
+      "instruction": "Provide feedback for a business development role.",
+      "feedback": "Highlight your experience with lead generation and closing deals. Include specific revenue targets you've achieved."
+    },
+    {
+      "resume_text": "Summary: Graphic designer with 4 years of experience in branding and visual communication. Skills: Adobe Creative Suite, Typography, Branding, Illustration. Experience: Graphic Designer at ArtWorks (2019-2023). Education: B.Des in Graphic Design from KLM University.",
+      "instruction": "Tailor this resume for a UI designer role.",
+      "feedback": "Emphasize your experience with UI design principles and tools like Figma or Sketch. Include links to your portfolio showcasing UI projects."
+    },
+    {
+      "resume_text": "Summary: Mechanical engineer with 5 years of experience in product design and manufacturing. Skills: CAD, SolidWorks, Finite Element Analysis, Project Management. Experience: Mechanical Engineer at MechCorp (2018-2023). Education: B.Tech in Mechanical Engineering from NOP University.",
+      "instruction": "Provide feedback for a design engineer role.",
+      "feedback": "Highlight your experience with product design and prototyping. Include examples of products you've designed and their impact."
+    },
+    {
+      "resume_text": "Summary: Biomedical engineer with expertise in medical device development. Skills: MATLAB, LabVIEW, Regulatory Compliance, Prototyping. Experience: Biomedical Engineer at MedTech (2017-2023). Education: M.Tech in Biomedical Engineering from QRS University.",
+      "instruction": "Tailor this resume for a regulatory affairs role.",
+      "feedback": "Focus on your experience with FDA regulations and compliance. Include any certifications like RAC."
+    },
+    {
+      "resume_text": "Summary: Environmental scientist with 6 years of experience in sustainability and climate change research. Skills: GIS, Data Analysis, Environmental Impact Assessment, Report Writing. Experience: Environmental Scientist at GreenEarth (2017-2023). Education: M.Sc in Environmental Science from TUV University.",
+      "instruction": "Provide feedback for a sustainability consultant role.",
+      "feedback": "Highlight your experience with sustainability initiatives and carbon footprint analysis. Include specific projects and their outcomes."
+    },
+    {
+      "resume_text": "Summary: Architect with 7 years of experience in residential and commercial design. Skills: AutoCAD, Revit, 3D Modeling, Project Management. Experience: Architect at DesignWorks (2016-2023). Education: B.Arch from WXY University.",
+      "instruction": "Tailor this resume for an urban planner role.",
+      "feedback": "Emphasize your experience with urban design and zoning regulations. Include examples of large-scale projects you've worked on."
+    },
+    {
+      "resume_text": "Summary: Event planner with 5 years of experience in corporate and social events. Skills: Event Coordination, Budgeting, Vendor Management, Marketing. Experience: Event Planner at EventPro (2018-2023). Education: BBA in Event Management from ZAB University.",
+      "instruction": "Provide feedback for a wedding planner role.",
+      "feedback": "Focus on your experience with wedding planning and vendor coordination. Include examples of successful weddings you've organized."
+    },
+    {
+      "resume_text": "Summary: Chef with 10 years of experience in fine dining and menu development. Skills: Culinary Arts, Menu Planning, Food Safety, Team Management. Experience: Head Chef at GourmetKitchen (2013-2023). Education: Diploma in Culinary Arts from CDA Institute.",
+      "instruction": "Tailor this resume for a restaurant manager role.",
+      "feedback": "Highlight your experience with restaurant operations and customer service. Include metrics like customer satisfaction scores or revenue growth."
+    },
+    {
+      "resume_text": "Summary: Journalist with 8 years of experience in investigative reporting and feature writing. Skills: Research, Interviewing, Editing, Multimedia Storytelling. Experience: Senior Journalist at NewsDaily (2015-2023). Education: B.A in Journalism from EFG College.",
+      "instruction": "Provide feedback for a content strategist role.",
+      "feedback": "Emphasize your experience with content planning and audience engagement. Include examples of successful content campaigns."
+    },
+    {
+        "resume_text": "Summary: Experienced software engineer with 5+ years of expertise in Python, Java, and cloud technologies. Skills: Python, Java, AWS, SQL, Docker. Experience: Software Engineer at XYZ Corp (2018-2023). Education: B.Tech in Computer Science from ABC University.",
+        "instruction": "Tailor this resume for a data scientist role.",
+        "feedback": "Add more details about your experience with data analysis and machine learning. Highlight any projects involving data science tools like Pandas, Scikit-learn, or TensorFlow."
+    },
+    {
+        "resume_text": "Summary: Recent graduate with a degree in Computer Science and a passion for web development. Skills: HTML, CSS, JavaScript, React. Experience: Intern at WebDev Inc (2022). Education: B.Sc in Computer Science from DEF College.",
+        "instruction": "Provide feedback for a front-end developer role.",
+        "feedback": "Expand on your React projects and include links to your portfolio or GitHub. Mention any experience with responsive design or cross-browser compatibility."
+    },
+    {
+        "resume_text": "Summary: Data analyst with 3 years of experience in analyzing large datasets and generating actionable insights. Skills: SQL, Excel, Tableau, Python. Experience: Data Analyst at Data Solutions (2020-2023). Education: M.Sc in Data Analytics from GHI University.",
+        "instruction": "Adapt this resume for a business analyst position.",
+        "feedback": "Focus on your experience with business intelligence tools and methodologies. Mention any collaboration with stakeholders to drive data-driven decisions."
+    },
+    {
+        "resume_text": "Summary: Full-stack developer with 4 years of experience in building scalable web applications. Skills: Node.js, Express, MongoDB, React. Experience: Full-Stack Developer at Tech Innovations (2019-2023). Education: B.Sc in Software Engineering from JKL University.",
+        "instruction": "Tailor this resume for a software architect role.",
+        "feedback": "Highlight your experience with system design and architecture. Discuss any leadership roles or mentoring experiences you've had."
+    },
+    {
+        "resume_text": "Summary: Marketing specialist with 6 years of experience in digital marketing strategies and SEO. Skills: SEO, SEM, Google Analytics, Social Media Marketing. Experience: Marketing Specialist at Creative Agency (2017-2023). Education: B.A. in Marketing from MNO University.",
+        "instruction": "Adjust this resume for a marketing manager position.",
+        "feedback": "Emphasize leadership in marketing campaigns and team management. Include metrics to showcase the success of your strategies."
+    },
+    {
+        "resume_text": "Summary: Cybersecurity analyst with a strong background in network security and risk assessment. Skills: Firewalls, Intrusion Detection, Penetration Testing. Experience: Cybersecurity Analyst at SecureTech (2020-2023). Education: B.Sc in Cybersecurity from PQR University.",
+        "instruction": "Modify this resume for a security consultant role.",
+        "feedback": "Detail your experience with vulnerability assessments and security audits. Mention any certifications like CISSP or CEH."
+    },
+    {
+        "resume_text": "Summary: Graphic designer with 5 years of experience specializing in branding and visual communication. Skills: Adobe Creative Suite, Sketch, Figma. Experience: Graphic Designer at Design Studio (2018-2023). Education: B.Des in Graphic Design from STU University.",
+        "instruction": "Revise this resume for a UI/UX designer position.",
+        "feedback": "Highlight your understanding of user-centered design principles. Include examples of UI projects and your design process."
+    },
+    {
+        "resume_text": "Summary: Project manager with over 8 years of experience in leading cross-functional teams. Skills: Agile, Scrum, Project Planning, Risk Management. Experience: Project Manager at Global Solutions (2015-2023). Education: M.B.A. from VWX University.",
+        "instruction": "Tailor this resume for a program manager role.",
+        "feedback": "Discuss your experience managing multiple projects simultaneously. Emphasize your strategic planning and stakeholder engagement abilities."
+    },
+    {
+        "resume_text": "Summary: Systems administrator with 7 years of experience in managing IT infrastructures. Skills: Windows Server, Linux, Networking, Cloud Services. Experience: Systems Administrator at ABC Corp (2016-2023). Education: B.Sc in Information Technology from YZ University.",
+        "instruction": "Adjust this resume for a DevOps engineer position.",
+        "feedback": "Focus on your experience with automation tools and CI/CD pipelines. Highlight any experience with containerization technologies like Docker or Kubernetes."
+    },
+    {
+        "resume_text": "Summary: Content writer with 4 years of experience in creating engaging articles and blog posts. Skills: SEO, Content Strategy, Research. Experience: Content Writer at Content Creators (2019-2023). Education: B.A. in English from ZAB University.",
+        "instruction": "Modify this resume for a copywriter role.",
+        "feedback": "Emphasize your ability to write persuasive content and your familiarity with marketing strategies. Include examples of successful campaigns."
+    }
+]
