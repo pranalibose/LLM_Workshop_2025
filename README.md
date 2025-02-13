@@ -26,6 +26,7 @@
 - **Understand the utilities in the platform**
 
 #### Hands-on 2
+[HF API call](https://github.com/pranalibose/LangVisionWorkshop/blob/main/Ho2_HF_API_calls.ipynb)
 - Access HF API to get feedback on different resumes
 - Add custom instructions to see the performance
 
