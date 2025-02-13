@@ -1,4 +1,4 @@
-# Workshop Workflow
+# Workshop Agenda
 
 ## Day 1
 
