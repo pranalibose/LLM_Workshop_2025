@@ -15,6 +15,7 @@
   [Tokenization Demo](https://github.com/pranalibose/Resume_Analyser/blob/main/tokenization-demo.ipynb)
 
 #### Hands-on 1
+[Preprocess Text](https://github.com/pranalibose/LangVisionWorkshop/blob/main/HO1_Text_Processing.ipynb)
 - Preprocess resume text
 - Tokenize and create embeddings
 
