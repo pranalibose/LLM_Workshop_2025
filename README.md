@@ -61,7 +61,6 @@
 - **What are Vector Databases?**
 - **Different Types of Searches**
 - **FAISS and how it works**
-- **Alternatives:** Pinecone, Milvus
 
 
 ### Part 3: Hands-on 1
