@@ -45,6 +45,7 @@
 #### Hands-on 4
 - [Create a Simple UI using Streamlit](https://github.com/pranalibose/Resume_App)
 - Integrate Fine-Tuned Model to Generate Responses
+- Deploy App
 
 ---
 
