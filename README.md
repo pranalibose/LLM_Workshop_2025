@@ -28,12 +28,6 @@
 - Access HF API to get feedback on different resumes
 - Add custom instructions to see the performance
 
----
-
-### BREAK
-
----
-
 ### Part 3: Fine-Tuning
 - **Why Fine-Tune?**
 - **Process of Fine-Tuning**
@@ -69,11 +63,6 @@
 - **FAISS and how it works**
 - **Alternatives:** Pinecone, Milvus
 
----
-
-### BREAK
-
----
 
 ### Part 3: Hands-on 1
 - **RAG Implementation**
