@@ -1,6 +1,4 @@
-# Workshop Agenda
-
-## Day 1
+# Agenda
 
 ### Part 1: Introduction
 - **What are LLMs, applications**
@@ -14,10 +12,6 @@
 - **Types of Tokenization** (WordPiece, Byte-Pair Encoding, SentencePiece) and Demonstration:  
   [Tokenization Demo](https://github.com/pranalibose/Resume_Analyser/blob/main/tokenization-demo.ipynb)
 
-#### Hands-on 1
-[Preprocess Text](https://github.com/pranalibose/LangVisionWorkshop/blob/main/HO1_Text_Processing.ipynb)
-- Preprocess resume text
-- Tokenize and create embeddings
 
 ---
 
@@ -25,10 +19,6 @@
 - **Create an account and access token**
 - **Understand the utilities in the platform**
 
-#### Hands-on 2
-[HF API call](https://github.com/pranalibose/LangVisionWorkshop/blob/main/Ho2_HF_API_calls.ipynb)
-- Access HF API to get feedback on different resumes
-- Add custom instructions to see the performance
 
 ### Part 3: Fine-Tuning
 - **Why Fine-Tune?**
@@ -47,39 +37,5 @@
 - Integrate Fine-Tuned Model to Generate Responses
 - Deploy App
 
----
-
-## Day 2
-
-### Part 1: Query Resolution & Quiz
-- Discuss questions from the previous day
-- Conduct a quiz session
-
----
-
-### Part 2: Retrieval-Augmented Generation (RAG)
-- **What is RAG and its advantages?**
-- **Comparison: RAG vs. Fine-Tuning**
-- **RAG Architecture**
-- **What are Vector Databases?**
-- **Different Types of Searches**
-- **FAISS and how it works**
-
-
-### Part 3: Hands-on 1
-- **RAG Implementation**
-- **Integrate RAG and FAISS with the Fine-Tuned Model**
-
----
-
-### Part 4: What’s Next?
-- **Assignment:**
-  - Develop an **app to summarize lengthy documents**
-  - Take a document as input and choose the summary format (bullet points, short paragraphs)
-  - Fine-tune a suitable LLM and integrate with a simple UI
-
-- **Open Discussion**
-- **Interview Question Bank**
-
-[Deck](https://my.visme.co/view/pvo9x3vv-langvision)
+[Deck](https://my.visme.co/preview/76jz86yz-llms-anurag-uni)
 
